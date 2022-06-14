@@ -1,0 +1,94 @@
+#navbarS {
+    height: 92px;
+    width: 1423px;
+    border: 1px solid black;
+   margin: auto;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+
+
+}
+#logoS{
+    height: 64px;
+    width: 287.5px;
+    border: 1px solid black;
+}
+#searchS{
+    height: 60px;
+    width: 635px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    
+}
+#AllCat{
+    height: 35px;
+    width: 220px;
+    border: 1px solid black;
+}
+#IP{
+    height: 31px;
+    width: 350px; 
+}
+#sub>button{
+    height: 100%;
+    border-radius: 0px 3px 3px 0px;
+    width: 100%;
+    
+    border: none;
+    background-color: #dd0285;
+}
+#sub>button>img{
+    height: 100%;
+width: 100%;
+
+}
+#sub{
+    height: 86%;
+    width: 10%;
+    background-color: #dd0285;
+    border-radius: 0px 3px 3px 0px;
+}
+#w{
+    height: 60%;
+    border: 1px solid black;
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.whist{
+    height: 100%;
+    width: 20%;
+    border: 1px solid black;
+    
+}
+.whist:hover{
+    background-color: #dd0285;
+}
+.whist>img{
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+}
+#accu{
+    height: 100%;
+    width: 25%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#accu>img{
+    height: 80%;
+    width: 80%;
+}
+#Acc{
+    border: 1px solid red;
+    height: 100%;
+    width: 70%;
+    display: flex;
+    align-items: center;
+}
