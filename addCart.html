@@ -11,22 +11,116 @@
 
 <body>
     <div id="navbarS">
-     <div id="logoS"><img src="https://www.beautybebo.com/pub/media/logo/default/beautybebo_1.png" alt=""></div>
-     <div id="searchS">
-         <div id="AllCat">
-            <section></section>
-         </div>
-         <input type="text" id="IP">
-         <div id="sub"><button><img src="https://w7.pngwing.com/pngs/605/56/png-transparent-search-icon-computer-icons-android-desktop-search-button-internet-share-icon-search-button.png" alt=""></button></div>
-     </div>
-     <div id="w">
-           <div class="whist"> <img src="https://logodix.com/logo/1332846.png" alt=""></div>
-           <div id="Acc">
-            <div id="accu"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-QBaCgmJMTArP6E3KYOR6yN7LXXwXqCai5bGQqyCNyLEG_SapYTkGkDTmcVoDZXlQv-o&usqp=CAU" alt=""></div>
-            <h3 id="UserName">My Account</h3>
-           </div>
-     </div>
+        <div id="logoS"><img src="https://www.beautybebo.com/pub/media/logo/default/beautybebo_1.png" alt=""></div>
+        <div id="searchS">
+            <div id="AllCat">
+                <section></section>
+            </div>
+            <input type="text" id="IP">
+            <div id="sub"><button><img
+                        src="https://w7.pngwing.com/pngs/605/56/png-transparent-search-icon-computer-icons-android-desktop-search-button-internet-share-icon-search-button.png"
+                        alt=""></button></div>
+        </div>
+        <div id="w">
+            <div class="whist"> <img src="https://logodix.com/logo/1332846.png" alt=""></div>
+            <div id="Acc">
+                <div id="accu"><img
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-QBaCgmJMTArP6E3KYOR6yN7LXXwXqCai5bGQqyCNyLEG_SapYTkGkDTmcVoDZXlQv-o&usqp=CAU"
+                        alt=""></div>
+                <h3 id="UserName">My Account</h3>
+            </div>
+        </div>
     </div>
+    <h2>SHOPPING CART</h2>
+    <div id="mainDIV">
+        <!-- for item price qty table heading -->
+        <div id="banner">
+            <div id="ite">
+                <p>ITEM</p>
+            </div>
+            <div id="PQS">
+                <div>
+                    <p>PRICE</p>
+                </div>
+                <div>
+                    <p>QTY</p>
+                </div>
+                <div>
+                    <P>SUBTOTAL</P>
+                </div>
+            </div>
+        </div>
+        <!-- individual cards -->
+        <div id="main">
+            <!-- dummy each  -->
+            <div class="cards">
+                <div id="all">
+                    <div id="imgS"></div>
+                    <p id="title" style="border:1px solid black;">fggfg</p>
+                    <div id="third">
+                        <div id="price"></div>
+                        <div id="qty"><input type="number"></div>
+                        <div id="tot"></div>
+                    </div>
+
+                </div>
+                <div id="btns">
+                    <div id="edit">
+                        <p>Edit</p>
+                    </div>
+                    <div id="remove">
+                        <p>Remove item</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 </body>
 
 </html>
+<script>
+    let cards = document.createElement("div")
+    cards.setAttribute("id", "cards")
+    let all = document.createElement("div")
+    all.setAttribute("id", "all")
+    let imgS = document.createElement("div")
+    imgS.setAttribute("id", "imgS")
+    let img = document.createElement("img")
+    img.src = el.link
+    imgS.append(img)
+    let title = document.createElement("p")
+    title.setAttribute("id", "title")
+    let third = document.createElement("div")
+    third.setAttribute("id", "third")
+    let price = document.createElement("div")
+    price.setAttribute("id", "price")
+    let qty = document.createElement("div")
+    qty.setAttribute("id", "qty")
+    let input = document.createElement("input")
+    input.type = "number"
+    qty.append(input)
+    let tot = document.createElement("div")
+    tot.setAttribute("id", "tot")
+    third.append(price, qty, tot)
+    all.append(imgS, title, third)
+    let btns = document.createElement("div")
+    btns.setAttribute("id", "btns")
+    let edit = document.createElement("div")
+    edit.setAttribute("id", "edit")
+    let p1 = document.createElement("p")
+    p1.innerHTML = "Edit"
+    edit.append(p1)
+    let remove = document.createElement("div")
+    remove.setAttribute("id", "remove")
+
+    let p2 = document.createElement("p")
+
+    p2.innerHTML = "Remove"
+    remove.append(p2)
+    btns.append(edit, remove)
+    cards.append(all, btns)
+    document.getElementById("main").append(cards)
+
+
+</script>
