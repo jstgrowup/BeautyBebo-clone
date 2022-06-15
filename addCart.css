@@ -114,7 +114,7 @@
 
 #mainDIV {
     /* height should be auto */
-    height: 1000px;
+    min-height: 900px;
     width: 93%;
     border: 1px solid black;
     margin: auto;
@@ -144,14 +144,14 @@
 
 #PQS {
     height: 100%;
-    width: 40%;
+    width: 30%;
     display: flex;
     justify-content: space-between;
 }
 
 #main {
     /* height shoukd be auto here */
-    height: 500px;
+    height: auto;
     width: 65%;
     /* margin-left: 50px; */
     border: 1px solid red;
@@ -166,7 +166,7 @@
 }
 
 #all {
-    height:70%;
+    height:150px;
     width: 100%;
     border: 1px solid black;
     display: flex;
@@ -177,15 +177,30 @@
 
 #imgS {
     height: 100%;
-    width: 20%;
+    width: 300px;
     border: 1px solid black;
 }
-
+#imgS>img{
+    height: 100%;
+    width: 100%;
+}
+#second{
+    border: 1px solid black;
+    height: 100%;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#title{
+   font-size: 16px;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
 #third {
     height: 30%;
-    width: 40%;
+    width: 50%;
     border: 1px solid black;
-    margin-left: 300px;
+    /* margin-left: 300px; */
     display: flex;
     justify-content: space-between;
 }
@@ -202,9 +217,9 @@
     border: 1px solid black;
 }
 
-#qty>input {
+#qty>select {
     height: 100%;
-    width: 100%;
+    width: 90%;
     border: none;
 }
 
@@ -217,7 +232,7 @@
     border: 1px solid red;
     width: 35%;
     display: flex;
-    height: 25%;
+    height: 36px;
     justify-content: space-between;
 }
 #edit{
@@ -378,4 +393,85 @@
     font-weight: 700;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: #666666;
+}
+#footer{
+    height: 400px;
+    width: 100%;
+    border: 1px solid black;
+    margin: auto;
+    background-color: black;
+
+}
+#UF{
+    height: 73%;
+    width: 90%;
+    /* border: 2px solid white; */
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(auto,1fr);
+    color: white;
+    margin: auto;
+}
+#UF>div{
+    /* border: 1px solid white; */
+}
+
+#firstF>p{
+margin-bottom: 25px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+color: #666666;
+}
+#firstF>:first-child{
+    font-weight: 700;
+    font-size: 22px;
+    color: white;
+}
+
+#secondF ul>li{
+    margin-bottom: 13px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #666666;
+}
+#secondF>:first-child{
+    font-weight: 700;
+    font-size: 22px;
+    color: white;
+    margin-bottom: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#thirdF ul>li{
+    margin-bottom: 13px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #666666;
+}
+#thirdF>:first-child{
+    font-weight: 700;
+    font-size: 22px;
+    color: white;
+    margin-bottom: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#fourthF ul>li{
+    margin-bottom: 13px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #666666;
+}
+#fourthF>:first-child{
+    font-weight: 700;
+    font-size: 22px;
+    color: white;
+    margin-bottom: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#LF{
+    height: 20%;
+    /* border: 1px solid white; */
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+#LF img{
+    height: 50%;
+    width: 25%;
 }
