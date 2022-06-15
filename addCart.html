@@ -107,17 +107,17 @@
                 <div id="subtotal">
                     <span>Subtotal</span>
                     <h4 style="margin-left:270px ;">&#8377</h4>
-                    <h3 id="total">3434</h3>
+                    <h3 id="total"></h3>
                 </div>
                 <div id="shipping">
                     <span>Shipping charges</span>
-                    <h4 style="margin-left:270px ;">&#8377</h4>
+                    <h4 style="margin-left:200px ;">&#8377</h4>
                     <h3>55.0</h3>
                 </div>
                 <div id="Ototal">
                     <span>Order Total Incl.GST</span>
-                    <h4 style="margin-left: 190px;">&#8377</h4>
-                    <h3 id="wholeTot">546</h3>
+                    <h4 style="margin-left:150px;">&#8377</h4>
+                    <h3 id="wholeTot"></h3>
                 </div>
                 <div id="dis">
                     <h4>APPLY DISCOUNT CODE</h4>
@@ -139,7 +139,7 @@
 
 
 
-        
+
 
 
     </div>
@@ -147,7 +147,7 @@
         <div id="UF">
             <div id="firstF">
                 <p>CONTACT INFO</p>
-         <p>(+91)7877061041</p>
+                <p>(+91)7877061041</p>
                 <p>support@beautybebo</p>
                 <p>sales@beautybebo</p>
                 <p>Open time 10:00AM-7:00pm</p>
@@ -229,14 +229,6 @@
                 </ul>
             </div>
 
-
-
-
-
-
-
-
-
         </div>
         <div id="LF">
             <img src="https://www.beautybebo.com/pub/media/wysiwyg/payment.png" alt="">
@@ -252,139 +244,9 @@
 </body>
 
 </html>
-<script>
-    let click = document.querySelector("#click")
-    let lists = document.querySelector(".list")
-    click.addEventListener("click", function () {
-        if (lists.classList.contains("links")) {
-            lists.classList.remove("links")
-        }
-        else {
-            lists.classList.add("links")
-        }
 
-    })
-
-
-    let data = [{
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg',
-        title: 'Miss Claire Eyelash Glue - Clear Tone',
-        weight: '(50gm)',
-        quantity: 1,
-        id: 'BBJ0003398',
-        strikedOffPrice: 350.00,
-        price: 322.00,
-        discount: '8% Off',
-        brand: 'Miss Claire',
-        discription: `Go long and strong in your lash-game with Miss Claire Eyelash Glue. Let’s get all your falsies in their place to slay all day long. This gentle eyelash adhesive is latex free, non-toxic and pH-balanced for safe use. It is waterproof and holds your eyelashes securely in place making them look natural and flawless. It features a handy bottle with an easy-to-use applicator and a formula that blends in seamlessly. Clear tone allows seamless bond between extension and natural lashes.
-                    MRP : 350
-                    Best Before : JAN 2024
-                    About the Brand: Presenting an entire colorful range of face, lips and eye cosmetics that enhance your beauty and amplify your daily make-up looks. Loved by makeup fans across India, Miss Claire cosmetics are of premier quality, trendy, affordable and are formulated using the finest ingredients that care for your skin. The products are manufactured in accordance with European Standards. Choose from a huge range of Miss Claire makeup and beauty products right from lipstick, bronzers, highlighters, foundation, eyeliners to concealers all available in highly pigmented formula and textures. Miss Claire makeup products are affordably priced, long lasting and suit all skin tones.
-                    Origin : Made In South Korea
-                    Name of Mfg / Importer / Brand: Eureka Cosmo Pvt. Ltd. Address of Mfg / Importer / Brand: Eureka Cosmo Pvt. Ltd. 13, Gokul Regency-Ii, Thakur Complex, Kandivali (E), Mumbai -400 101.`,
-        productCategory: 'Eyes',
-        skinType: 'All Skin Type',
-        shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/produ…ae888adf23d57cf627ad/5/1/51ccwnye-ks._sl1094_.jpg'],
-        howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
-        Step 2: Wait 30 seconds for the adhesive to become sticky.
-        Step 3: Adhere the strip to your lash line and gently press it in place.
-        Step 4: Ensure the cap is secure post every use to avoid the glue from drying out`
-    }, {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/3699c478906105612174-2.jpg',
-        title: 'Maybelline New York Fit Me Primer - Dewy+Smooth',
-        weight: '(30ml)',
-        quantity: 1,
-        id: 'BBJ0003397',
-        strikedOffPrice: 549.00,
-        price: 521.00,
-        discount: '5% off',
-        brand: 'Maybelline',
-        discription: `Go long and strong in your lash-game with Miss Claire Eyelash Glue. Let’s get all your falsies in their place to slay all day long. This gentle eyelash adhesive is latex free, non-toxic and pH-balanced for safe use. It is waterproof and holds your eyelashes securely in place making them look natural and flawless. It features a handy bottle with an easy-to-use applicator and a formula that blends in seamlessly. Clear tone allows seamless bond between extension and natural lashes.
-                    MRP : 350
-                    Best Before : JAN 2024
-                    About the Brand: Presenting an entire colorful range of face, lips and eye cosmetics that enhance your beauty and amplify your daily make-up looks. Loved by makeup fans across India, Miss Claire cosmetics are of premier quality, trendy, affordable and are formulated using the finest ingredients that care for your skin. The products are manufactured in accordance with European Standards. Choose from a huge range of Miss Claire makeup and beauty products right from lipstick, bronzers, highlighters, foundation, eyeliners to concealers all available in highly pigmented formula and textures. Miss Claire makeup products are affordably priced, long lasting and suit all skin tones.
-                    Origin : Made In South Korea
-                    Name of Mfg / Importer / Brand: Eureka Cosmo Pvt. Ltd. Address of Mfg / Importer / Brand: Eureka Cosmo Pvt. Ltd. 13, Gokul Regency-Ii, Thakur Complex, Kandivali (E), Mumbai -400 101.`,
-        productCategory: 'Eyes',
-        skinType: 'All Skin Type',
-        shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_3.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_4.jpg'],
-        howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
-        Step 2: Wait 30 seconds for the adhesive to become sticky.
-        Step 3: Adhere the strip to your lash line and gently press it in place.
-        Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`}]
-
-       let  cartData=JSON.parse(localStorage.getItem("cartData"))||[]
-    let fun = (data) => {
-        data.forEach((el) => {
-            let cards = document.createElement("div")
-            cards.setAttribute("id", "cards")
-            let all = document.createElement("div")
-            all.setAttribute("id", "all")
-            let imgS = document.createElement("div")
-            imgS.setAttribute("id", "imgS")
-            let img = document.createElement("img")
-            img.src = el.image
-            imgS.append(img)
-            let sec = document.createElement("div")
-            sec.setAttribute("id", "second")
-            let title = document.createElement("h3")
-            title.setAttribute("id", "title")
-            title.innerHTML = el.title
-            sec.append(title)
-            let third = document.createElement("div")
-            third.setAttribute("id", "third")
-            let price = document.createElement("div")
-            price.setAttribute("id", "price")
-            price.innerHTML = `Rs ` + el.price
-            let qty = document.createElement("div")
-            qty.setAttribute("id", "qty")
-   
-            let input = document.createElement("select")
-            input.innerHTML = `<option value="none">Qty:</option>
-                      <option value="1">1</option>
-                      <option value="2">2</option>
-                      <option value="3">3</option>
-                      <option value="4">4</option>
-                      <option value="5">5</option>
-                      <option value="6">6<span>Max Qty</span></option>`
-            input.addEventListener("change", () => {
-                qtychange(el, input)
-            })
-            qty.append(input)
-            let tot = document.createElement("div")
-            tot.setAttribute("id", "tot")
-            third.append(price, qty, tot)
-            all.append(imgS, sec, third)
-            let btns = document.createElement("div")
-            btns.setAttribute("id", "btns")
-            let edit = document.createElement("div")
-            edit.setAttribute("id", "edit")
-            let p1 = document.createElement("p")
-            p1.innerHTML = "Edit"
-            edit.append(p1)
-            let remove = document.createElement("div")
-            remove.setAttribute("id", "remove")
-            remove.addEventListener("click",()=>{
-                deletefun(el,i)
-            })
-            let p2 = document.createElement("p")
-
-            p2.innerHTML = "Remove"
-            remove.append(p2)
-            btns.append(edit, remove)
-            cards.append(all, btns)
-            document.getElementById("main").append(cards)
-        })
-    }
-    fun(data)
-
-     function deletefun(el,i){
-        cartData.splice(i,1)
-        localStorage.setItem("cartData",JSON.stringify(cartData))
-        window.location.reload
-     }
- 
+<script src="script.js">
+  
 
 </script>
+<script src="data.js"></script>
