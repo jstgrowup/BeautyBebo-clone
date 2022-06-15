@@ -74,53 +74,127 @@
                 </div>
             </div>
         </div>
+        <div id="right">
+            <div id="upper">
+                <p>SUMMARY</p>
+                <div id="container">
+                    <p>ESTIMATE SHIPPING</p>
+                    <button id="click">
+                        <h1>></h1>
+                    </button>
+                    <!-- <h1 id="click">></h1 here -->
+                </div> 
+                <div class="list">
+                    <div class="links">
+                        <h3>Country</h3>
+                        <select name="" id="">
+                            <option value="in">INDIA</option>
+                            <option value="us">USA</option>
+                            <option value="nz">NEWZEALAND</option>
+                        </select>
+                        <h3>State</h3>
+                        <select name="" id="">
+                            <option value="as">ASSAM</option>
+                            <option value="bi">BIHAR</option>
+                            <option value="nz">UP</option>
+                            <option value="">TAMIL NADU</option>
+                        </select>
+                        <h3>Zip/Postal Code</h3>
+                        <input type="number">
+
+                    </div>
+                </div>
+                <div id="subtotal">
+                    <span>Subtotal</span>
+                    <h4 style="margin-left:270px ;">&#8377</h4>
+                    <h3 id="total">3434</h3>
+                </div>
+                <div id="shipping">
+                    <span>Shipping charges</span>
+                    <h4 style="margin-left:270px ;">&#8377</h4>
+                    <h3>55.0</h3>
+                </div>
+                <div id="Ototal">
+                    <span>Order Total Incl.GST</span>
+                    <h4 style="margin-left: 190px;">&#8377</h4>
+                    <h3 id="wholeTot">546</h3>
+                </div>
+                <div id="dis">
+                 <h4>APPLY DISCOUNT CODE</h4>
+                 <h2>></h2>
+                </div>
+                <!-- here -->
+               
+            </div> 
+            <div id="lower">
+                <div id="pinki">
+                    <h4>PROCEED TO CHECKOUT</h4>
+                </div>
+            </div>
+        </div>
+
+    </div>
     </div>
 
 </body>
 
 </html>
 <script>
-    let cards = document.createElement("div")
-    cards.setAttribute("id", "cards")
-    let all = document.createElement("div")
-    all.setAttribute("id", "all")
-    let imgS = document.createElement("div")
-    imgS.setAttribute("id", "imgS")
-    let img = document.createElement("img")
-    img.src = el.link
-    imgS.append(img)
-    let title = document.createElement("p")
-    title.setAttribute("id", "title")
-    let third = document.createElement("div")
-    third.setAttribute("id", "third")
-    let price = document.createElement("div")
-    price.setAttribute("id", "price")
-    let qty = document.createElement("div")
-    qty.setAttribute("id", "qty")
-    let input = document.createElement("input")
-    input.type = "number"
-    qty.append(input)
-    let tot = document.createElement("div")
-    tot.setAttribute("id", "tot")
-    third.append(price, qty, tot)
-    all.append(imgS, title, third)
-    let btns = document.createElement("div")
-    btns.setAttribute("id", "btns")
-    let edit = document.createElement("div")
-    edit.setAttribute("id", "edit")
-    let p1 = document.createElement("p")
-    p1.innerHTML = "Edit"
-    edit.append(p1)
-    let remove = document.createElement("div")
-    remove.setAttribute("id", "remove")
+    let click = document.querySelector("#click")
+    let lists = document.querySelector(".list")
+    click.addEventListener("click", function () {
+        if (lists.classList.contains("links")) {
+            lists.classList.remove("links")
+        }
+        else {
+            lists.classList.add("links")
+        }
 
-    let p2 = document.createElement("p")
+    })
 
-    p2.innerHTML = "Remove"
-    remove.append(p2)
-    btns.append(edit, remove)
-    cards.append(all, btns)
-    document.getElementById("main").append(cards)
+
+
+    // let cards = document.createElement("div")
+    // cards.setAttribute("id", "cards")
+    // let all = document.createElement("div")
+    // all.setAttribute("id", "all")
+    // let imgS = document.createElement("div")
+    // imgS.setAttribute("id", "imgS")
+    // let img = document.createElement("img")
+    // img.src = link
+    // imgS.append(img)
+    // let title = document.createElement("p")
+    // title.setAttribute("id", "title")
+    // let third = document.createElement("div")
+    // third.setAttribute("id", "third")
+    // let price = document.createElement("div")
+    // price.setAttribute("id", "price")
+    // let qty = document.createElement("div")
+    // qty.setAttribute("id", "qty")
+    // let input = document.createElement("input")
+    // input.type = "number"
+    // qty.append(input)
+    // let tot = document.createElement("div")
+    // tot.setAttribute("id", "tot")
+    // third.append(price, qty, tot)
+    // all.append(imgS, title, third)
+    // let btns = document.createElement("div")
+    // btns.setAttribute("id", "btns")
+    // let edit = document.createElement("div")
+    // edit.setAttribute("id", "edit")
+    // let p1 = document.createElement("p")
+    // p1.innerHTML = "Edit"
+    // edit.append(p1)
+    // let remove = document.createElement("div")
+    // remove.setAttribute("id", "remove")
+
+    // let p2 = document.createElement("p")
+
+    // p2.innerHTML = "Remove"
+    // remove.append(p2)
+    // btns.append(edit, remove)
+    // cards.append(all, btns)
+    // document.getElementById("main").append(cards)
 
 
 </script>
