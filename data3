@@ -1,0 +1,414 @@
+ let Ayurveda =[
+
+            {
+            image :"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/1/8/18_12_3.jpg",
+            title:"Vaadi Herbals Aloe Vera Face Scrub",
+            weight:"50gm",
+            id :"BBJ003250",
+            strikeofprice:"₹289",
+            price:289,
+            discount:"12 % OFF",
+            quantity :1,
+            brand:"Vaadi Herbals",
+            
+            discription:`This uniquely made Facial Scrub gently cleanses facial skin without removing moisture and makes the skin appear baby soft and pampered.
+
+            <b>MRP<b> : 285
+            
+            <b> Best Before<b> : JAN 2023
+            
+            <b>About the Brand<b>: Its range consists of hair care, skin care, face care and body care products enriched with the extracts of best quality natural herbs to cater to the needs of the whole family. Every product of Vaadi Herbals symbolizes the company's philosophy, that the consumer should get value for his money..
+            
+            <b>Origin : Made In India<b>
+            
+            <b>Name of Mfg / Importer / Brand<b>: Vaadi Herbals Pvt Ltd
+            Address of Mfg / Importer / Brand: A-40, Jhilmil Industrial Area, Shahdara Delhi 110095 `,
+     
+           ProductCatagory:"Natural",  
+           howToUse:`Aloe Vera Extract
+              Turmeric Extract
+             Fenugreek
+            Vitamin-E
+             Apricot` ,  
+
+         },
+
+        //  ------2
+        
+        {
+            image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/7/17_14_4.jpg",
+            title:"Vaadi Herbals 24 Carat Gold Massage Gel With 24 Carat",
+            weight:"50gm",
+            id :"BBJ003250",
+            strikeofprice:"₹289",
+            price:289,
+            discount:"12 % OFF",
+           quantity :1,
+            brand:"Vaadi Herbals",
+            
+            discription:`This uniquely made Facial Scrub gently cleanses facial skin without removing moisture and makes the skin appear baby soft and pampered.
+
+            <b>MRP<b> : 285
+            
+            <b> Best Before<b> : JAN 2023
+            
+            <b>About the Brand<b>: Its range consists of hair care, skin care, face care and body care products enriched with the extracts of best quality natural herbs to cater to the needs of the whole family. Every product of Vaadi Herbals symbolizes the company's philosophy, that the consumer should get value for his money..
+            
+            <b>Origin : Made In India<b>
+            
+            <b>Name of Mfg / Importer / Brand<b>: Vaadi Herbals Pvt Ltd
+            Address of Mfg / Importer / Brand: A-40, Jhilmil Industrial Area, Shahdara Delhi 110095 `,
+     
+           ProductCatagory:"Natural", 
+            howToUse:`Aloe Vera Extract
+              Turmeric Extract
+             Fenugreek
+            Vitamin-E
+             Apricot` ,          
+         },
+
+// -------3
+
+{
+    image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be43.jpg",
+    title:"Beeone Cucumber Facial Gel",
+    weight:"50gm",
+    id :"BBJ003250",
+    strikeofprice:"₹219",
+    price:219,
+    discount:"12 % OFF",
+     quantity :1,
+    brand:"Vaadi Herbals",
+    
+    discription:`This uniquely made Facial Scrub gently cleanses facial skin without removing moisture and makes the skin appear baby soft and pampered.
+
+    <b>MRP<b> : 219
+    
+    <b> Best Before<b> : JAN 2023
+    
+    <b>About the Brand<b>: Its range consists of hair care, skin care, face care and body care products enriched with the extracts of best quality natural herbs to cater to the needs of the whole family. Every product of Vaadi Herbals symbolizes the company's philosophy, that the consumer should get value for his money..
+    
+    <b>Origin : Made In India<b>
+    
+    <b>Name of Mfg / Importer / Brand<b>: Vaadi Herbals Pvt Ltd
+    Address of Mfg / Importer / Brand: A-40, Jhilmil Industrial Area, Shahdara Delhi 110095 `,
+
+   ProductCatagory:"Natural",   
+    howToUse:`Aloe Vera Extract
+              Turmeric Extract
+             Fenugreek
+            Vitamin-E
+             Apricot` ,        
+ },
+
+
+    
+{
+    image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be46.jpg",
+    title:"Beeone Diamond Facial Gel 440ml",
+    weight:"440ml",
+    id :"BBJ003250",
+    strikeofprice:"₹489",
+    price:489,
+    discount:"12 % OFF",
+   quantity :1,
+    brand:"Vaadi Herbals",
+    
+    discription:`This uniquely made Facial Scrub gently cleanses facial skin without removing moisture and makes the skin appear baby soft and pampered.
+
+    <b>MRP<b> : 489
+    
+    <b> Best Before<b> : JAN 2023
+    
+    <b>About the Brand<b>: Its range consists of hair care, skin care, face care and body care products enriched with the extracts of best quality natural herbs to cater to the needs of the whole family. Every product of Vaadi Herbals symbolizes the company's philosophy, that the consumer should get value for his money..
+    
+    <b>Origin : Made In India<b>
+    
+    <b>Name of Mfg / Importer / Brand<b>: Vaadi Herbals Pvt Ltd
+    Address of Mfg / Importer / Brand: A-40, Jhilmil Industrial Area, Shahdara Delhi 110095 `,
+
+   ProductCatagory:"Natural",   
+    howToUse:`Aloe Vera Extract
+              Turmeric Extract
+             Fenugreek
+            Vitamin-E
+             Apricot` ,        
+ },
+
+
+// --------------
+
+
+{
+    image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be97.jpg",
+    title:"O3+ Volcano Scrub",
+    weight:"50gm",
+    id :"BBJ003250",
+    strikeofprice:"₹489",
+    price:489,
+    discount:"12 % OFF",
+    quantity :1,
+    brand:"Vaadi Herbals",
+    
+    discription:`This uniquely made Facial Scrub gently cleanses facial skin without removing moisture and makes the skin appear baby soft and pampered.
+
+    <b>MRP<b> : 489
+    
+    <b> Best Before<b> : JAN 2023
+    
+    <b>About the Brand<b>: Its range consists of hair care, skin care, face care and body care products enriched with the extracts of best quality natural herbs to cater to the needs of the whole family. Every product of Vaadi Herbals symbolizes the company's philosophy, that the consumer should get value for his money..
+    
+    <b>Origin : Made In India<b>
+    
+    <b>Name of Mfg / Importer / Brand<b>: Vaadi Herbals Pvt Ltd
+    Address of Mfg / Importer / Brand: A-40, Jhilmil Industrial Area, Shahdara Delhi 110095 `,
+
+   ProductCatagory:"Natural", 
+    howToUse:`Aloe Vera Extract
+              Turmeric Extract
+             Fenugreek
+            Vitamin-E
+             Apricot` ,          
+ },
+
+
+
+ 
+{
+    image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be106.jpg",
+    title:"Beeone Papaya Scrub",
+    weight:"50gm",
+    id :"BBJ003250",
+    strikeofprice:"₹119",
+    price:119,
+    discount:"12 % OFF",
+     quantity :1,
+    brand:"Vaadi Herbals",
+    
+    discription:`This uniquely made Facial Scrub gently cleanses facial skin without removing moisture and makes the skin appear baby soft and pampered.
+
+    <b>MRP<b> : 119
+    
+    <b> Best Before<b> : JAN 2023
+    
+    <b>About the Brand<b>: Its range consists of hair care, skin care, face care and body care products enriched with the extracts of best quality natural herbs to cater to the needs of the whole family. Every product of Vaadi Herbals symbolizes the company's philosophy, that the consumer should get value for his money..
+    
+    <b>Origin : Made In India<b>
+    
+    <b>Name of Mfg / Importer / Brand<b>: Vaadi Herbals Pvt Ltd
+    Address of Mfg / Importer / Brand: A-40, Jhilmil Industrial Area, Shahdara Delhi 110095 `,
+
+   ProductCatagory:"Natural",    
+    howToUse:`Aloe Vera Extract
+              Turmeric Extract
+             Fenugreek
+            Vitamin-E
+             Apricot` ,       
+ },
+ 
+{
+    image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/j/6/j6.jpg",
+    title:"Joy Hydra Refresh Ultra Light Gel Moisturiser",
+    weight:"50gm",
+    id :"BBJ003250",
+    strikeofprice:"₹189",
+    price:189,
+    discount:"12 % OFF",
+      quantity :1,
+    brand:"Vaadi Herbals",
+    
+    discription:`This uniquely made Facial Scrub gently cleanses facial skin without removing moisture and makes the skin appear baby soft and pampered.
+
+    <b>MRP<b> : 189
+    
+    <b> Best Before<b> : JAN 2023
+    
+    <b>About the Brand<b>: Its range consists of hair care, skin care, face care and body care products enriched with the extracts of best quality natural herbs to cater to the needs of the whole family. Every product of Vaadi Herbals symbolizes the company's philosophy, that the consumer should get value for his money..
+    
+    <b>Origin : Made In India<b>
+    
+    <b>Name of Mfg / Importer / Brand<b>: Vaadi Herbals Pvt Ltd
+    Address of Mfg / Importer / Brand: A-40, Jhilmil Industrial Area, Shahdara Delhi 110095 `,
+
+   ProductCatagory:"Natural", 
+    howToUse:`Aloe Vera Extract
+              Turmeric Extract
+             Fenugreek
+            Vitamin-E
+             Apricot` ,          
+ },
+
+
+ 
+{
+    image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be85.jpg",
+    title:"Beeone Lemon Facial Gel",
+    weight:"50gm",
+    id :"BBJ003250",
+    strikeofprice:"₹389",
+    price:389,
+    discount:"12 % OFF",
+      quantity :1,
+    brand:"Vaadi Herbals",
+    
+    discription:`This uniquely made Facial Scrub gently cleanses facial skin without removing moisture and makes the skin appear baby soft and pampered.
+
+    <b>MRP<b> : 389
+    
+    <b> Best Before<b> : JAN 2023
+    
+    <b>About the Brand<b>: Its range consists of hair care, skin care, face care and body care products enriched with the extracts of best quality natural herbs to cater to the needs of the whole family. Every product of Vaadi Herbals symbolizes the company's philosophy, that the consumer should get value for his money..
+    
+    <b>Origin : Made In India<b>
+    
+    <b>Name of Mfg / Importer / Brand<b>: Vaadi Herbals Pvt Ltd
+    Address of Mfg / Importer / Brand: A-40, Jhilmil Industrial Area, Shahdara Delhi 110095 `,
+
+   ProductCatagory:"Natural",         
+ },
+
+
+
+ 
+{
+    image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/a/la9.jpg",
+    title:"L'Oreal Paris White Perfect Scrub",
+    weight:"50gm",
+    id :"BBJ003250",
+    strikeofprice:"₹489",
+    price:489,
+    discount:"12 % OFF",
+    quantity :1,
+    brand:"Vaadi Herbals",
+    
+    discription:`This uniquely made Facial Scrub gently cleanses facial skin without removing moisture and makes the skin appear baby soft and pampered.
+
+    <b>MRP<b> : 489
+    
+    <b> Best Before<b> : JAN 2023
+    
+    <b>About the Brand<b>: Its range consists of hair care, skin care, face care and body care products enriched with the extracts of best quality natural herbs to cater to the needs of the whole family. Every product of Vaadi Herbals symbolizes the company's philosophy, that the consumer should get value for his money..
+    
+    <b>Origin : Made In India<b>
+    
+    <b>Name of Mfg / Importer / Brand<b>: Vaadi Herbals Pvt Ltd
+    Address of Mfg / Importer / Brand: A-40, Jhilmil Industrial Area, Shahdara Delhi 110095 `,
+
+   ProductCatagory:"Natural",    
+    howToUse:`Aloe Vera Extract
+              Turmeric Extract
+             Fenugreek
+            Vitamin-E
+             Apricot` ,       
+ },
+
+
+ 
+{
+    image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/1/s1_1.jpg",
+    title:"Shahnaz Husain Gold 2-In-1 Anti Ageing Gel",
+    weight:"250gm",
+    id :"BBJ003250",
+    strikeofprice:"₹1489",
+    price:1489,
+    discount:"12 % OFF",
+     quantity :1,
+    brand:"Vaadi Herbals",
+    
+    discription:`This uniquely made Facial Scrub gently cleanses facial skin without removing moisture and makes the skin appear baby soft and pampered.
+
+    <b>MRP<b> : 1489
+    
+    <b> Best Before<b> : JAN 2023
+    
+    <b>About the Brand<b>: Its range consists of hair care, skin care, face care and body care products enriched with the extracts of best quality natural herbs to cater to the needs of the whole family. Every product of Vaadi Herbals symbolizes the company's philosophy, that the consumer should get value for his money..
+    
+    <b>Origin : Made In India<b>
+    
+    <b>Name of Mfg / Importer / Brand<b>: Vaadi Herbals Pvt Ltd
+    Address of Mfg / Importer / Brand: A-40, Jhilmil Industrial Area, Shahdara Delhi 110095 `,
+
+   ProductCatagory:"Natural", 
+    howToUse:`Aloe Vera Extract
+              Turmeric Extract
+             Fenugreek
+            Vitamin-E
+             Apricot` ,          
+ },
+
+
+ 
+{
+    image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/7/s7.jpg",
+    title:"Shahnaz Husain Shalocks Plus Ayurvedic Hair Oil",
+     weight:"50gm",
+    id :"BBJ003250",
+    strikeofprice:"₹640",
+    price:640,
+    discount:"12 % OFF",
+    quantity :1,
+    brand:"Vaadi Herbals",
+    
+    discription:`This uniquely made Facial Scrub gently cleanses facial skin without removing moisture and makes the skin appear baby soft and pampered.
+
+    <b>MRP<b> : 640
+    
+    <b> Best Before<b> : JAN 2023
+    
+    <b>About the Brand<b>: Its range consists of hair care, skin care, face care and body care products enriched with the extracts of best quality natural herbs to cater to the needs of the whole family. Every product of Vaadi Herbals symbolizes the company's philosophy, that the consumer should get value for his money..
+    
+    <b>Origin : Made In India<b>
+    
+    <b>Name of Mfg / Importer / Brand<b>: Vaadi Herbals Pvt Ltd
+    Address of Mfg / Importer / Brand: A-40, Jhilmil Industrial Area, Shahdara Delhi 110095 `,
+
+   ProductCatagory:"Natural",
+    howToUse:`Aloe Vera Extract
+              Turmeric Extract
+             Fenugreek
+            Vitamin-E
+             Apricot` ,           
+ },
+// ----------
+ 
+{
+    image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/8/288.jpg",
+    title:"Himalaya Herbals Oil-Free Radiance Gel Cream",
+    weight:"50gm",
+    id :"BBJ003250",
+    strikeofprice:"₹269",
+    price:269,
+    discount:"12 % OFF",
+    quantity :1,
+    brand:"Vaadi Herbals",
+    
+    discription:`This uniquely made Facial Scrub gently cleanses facial skin without removing moisture and makes the skin appear baby soft and pampered.
+
+    <b>MRP<b> : 269
+    
+    <b> Best Before<b> : JAN 2023
+    
+    <b>About the Brand<b>: Its range consists of hair care, skin care, face care and body care products enriched with the extracts of best quality natural herbs to cater to the needs of the whole family. Every product of Vaadi Herbals symbolizes the company's philosophy, that the consumer should get value for his money..
+    
+    <b>Origin : Made In India<b>
+    
+    <b>Name of Mfg / Importer / Brand<b>: Vaadi Herbals Pvt Ltd
+    Address of Mfg / Importer / Brand: A-40, Jhilmil Industrial Area, Shahdara Delhi 110095 `,
+
+   ProductCatagory:"Natural", 
+    howToUse:`Aloe Vera Extract
+              Turmeric Extract
+             Fenugreek
+            Vitamin-E
+             Apricot` ,          
+ },
+
+
+
+  
+
+
+
+         
+
+]       

@@ -1,0 +1,439 @@
+ let   perfume =[
+            {
+            image :"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
+            title:"Fogg Punch Fragrance Body Spray",
+            weight:"50ML",
+            id :"BBJ003250",
+            strikeofprice: "₹321",
+            price:321,
+            discount:"12 % OFF",
+            quantity=1,
+            brand:"Fogg",
+            
+            discription:`Fogg Punch Body Spray leaves behind a sensual aroma that stimulates your senses and helps you enjoy a luxurious fragrance. This long-lasting body spray prevents body odour and uplifts your mood. Every spray adds a spark of freshness to your life.
+
+           <b> MRP : 230 <b>
+            
+            Best Before : NOV 2023
+            
+            <b>About the Brand <b>: Among the top selling deodorant brands in India, Fogg deodorants by Vini Cosmetics Private Limited, is known for it's 'No Gas, Only Perfume' long lasting, invigorating and pleasant fragrances and body sprays that help you stay cool, confident and fresh throughout the day's activities.Vini Cosmetic Ltd. is the manufacturer of Fogg products. Fogg is one of the most well known brands that offer invigorating and pleasant deodorants and body sprays that help you feel cool, confident and fresh throughout the day.
+            
+            <b> Origin<b> : Made In India
+            
+            <b>Name of Mfg / Importer / Brand:<b> VINI Cosmetics Pvt. Ltd.
+            
+            <b>Address of Mfg / Importer / Brand:<b> Janki House,2 Sunrise Park ,Opp. Himalaya Mall ,Drive In Road ,Bodakdev Ahmedabad -380054 Gujarat `,
+     
+           ProductCatagory:"Mens",         
+         },
+// ----------2
+         {
+            image :"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf62https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo21.jpg",
+            title:"Fogg Bleu Series Island Fragrance",
+            weight:"50ML",
+            id :"BBJ003250",
+            strikeofprice:"₹321",
+            price:321,
+            discount:"12 % OFF",
+            qunty :1,
+            brand:"Fogg",
+            
+            discription:`Fogg Punch Body Spray leaves behind a sensual aroma that stimulates your senses and helps you enjoy a luxurious fragrance. This long-lasting body spray prevents body odour and uplifts your mood. Every spray adds a spark of freshness to your life.
+
+           <b> MRP : 321 <b>
+            
+            Best Before : NOV 2023
+            
+            <b>About the Brand <b>: Among the top selling deodorant brands in India, Fogg deodorants by Vini Cosmetics Private Limited, is known for it's 'No Gas, Only Perfume' long lasting, invigorating and pleasant fragrances and body sprays that help you stay cool, confident and fresh throughout the day's activities.Vini Cosmetic Ltd. is the manufacturer of Fogg products. Fogg is one of the most well known brands that offer invigorating and pleasant deodorants and body sprays that help you feel cool, confident and fresh throughout the day.
+            
+            <b> Origin<b> : Made In India
+            
+            <b>Name of Mfg / Importer / Brand:<b> VINI Cosmetics Pvt. Ltd.
+            
+            <b>Address of Mfg / Importer / Brand:<b> Janki House,2 Sunrise Park ,Opp. Himalaya Mall ,Drive In Road ,Bodakdev Ahmedabad -380054 Gujarat `,
+     
+           ProductCatagory:"Mens",         
+         },
+    
+        //  -----------------------3
+
+         {
+            image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/8/s8.jpg",
+            title:"Calvin Klein Eternity For Men Eau De Parfum",
+            weight:"50ML",
+            id :"BBJ003250",
+            strikeofprice:"₹3213",
+            price:3213,
+            discount:"12 % OFF",
+            quantity=1,
+            brand:"Fogg",
+            
+            discription:`Fogg Punch Body Spray leaves behind a sensual aroma that stimulates your senses and helps you enjoy a luxurious fragrance. This long-lasting body spray prevents body odour and uplifts your mood. Every spray adds a spark of freshness to your life.
+
+           <b> MRP : 3213 <b>
+            
+            Best Before : NOV 2023
+            
+            <b>About the Brand <b>: Among the top selling deodorant brands in India, Fogg deodorants by Vini Cosmetics Private Limited, is known for it's 'No Gas, Only Perfume' long lasting, invigorating and pleasant fragrances and body sprays that help you stay cool, confident and fresh throughout the day's activities.Vini Cosmetic Ltd. is the manufacturer of Fogg products. Fogg is one of the most well known brands that offer invigorating and pleasant deodorants and body sprays that help you feel cool, confident and fresh throughout the day.
+            
+            <b> Origin<b> : Made In India
+            
+            <b>Name of Mfg / Importer / Brand:<b> VINI Cosmetics Pvt. Ltd.
+            
+            <b>Address of Mfg / Importer / Brand:<b> Janki House,2 Sunrise Park ,Opp. Himalaya Mall ,Drive In Road ,Bodakdev Ahmedabad -380054 Gujarat `,
+     
+           ProductCatagory:"Mens",         
+         },
+    
+        //  -----------------4
+
+         {
+            image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo10.jpg",
+            title:"Fogg Punch Fragrance Body Spray",
+            weight:"50ML",
+            id :"BBJ003250",
+            strikeofprice:"₹321",
+            price:321,
+            discount:"12 % OFF",
+            quantity=1,
+            brand:"Fogg",
+            
+            discription:`Fogg Punch Body Spray leaves behind a sensual aroma that stimulates your senses and helps you enjoy a luxurious fragrance. This long-lasting body spray prevents body odour and uplifts your mood. Every spray adds a spark of freshness to your life.
+
+           <b> MRP : 230 <b>
+            
+            Best Before : NOV 2023
+            
+            <b>About the Brand <b>: Among the top selling deodorant brands in India, Fogg deodorants by Vini Cosmetics Private Limited, is known for it's 'No Gas, Only Perfume' long lasting, invigorating and pleasant fragrances and body sprays that help you stay cool, confident and fresh throughout the day's activities.Vini Cosmetic Ltd. is the manufacturer of Fogg products. Fogg is one of the most well known brands that offer invigorating and pleasant deodorants and body sprays that help you feel cool, confident and fresh throughout the day.
+            
+            <b> Origin<b> : Made In India
+            
+            <b>Name of Mfg / Importer / Brand:<b> VINI Cosmetics Pvt. Ltd.
+            
+            <b>Address of Mfg / Importer / Brand:<b> Janki House,2 Sunrise Park ,Opp. Himalaya Mall ,Drive In Road ,Bodakdev Ahmedabad -380054 Gujarat `,
+     
+           ProductCatagory:"Mens",         
+         },
+    
+        //  -----------------5
+
+         {
+            image :"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
+            title:"Fogg Punch Fragrance Body Spray",
+            quantity:"50ML",
+            id :"BBJ003250",
+            strikeofprice:"₹321",
+            price:321,
+            discount:"12 % OFF",
+            qunty :1,
+            brand:"Fogg",
+            
+            discription:`Fogg Punch Body Spray leaves behind a sensual aroma that stimulates your senses and helps you enjoy a luxurious fragrance. This long-lasting body spray prevents body odour and uplifts your mood. Every spray adds a spark of freshness to your life.
+
+           <b> MRP : 230 <b>
+            
+            Best Before : NOV 2023
+            
+            <b>About the Brand <b>: Among the top selling deodorant brands in India, Fogg deodorants by Vini Cosmetics Private Limited, is known for it's 'No Gas, Only Perfume' long lasting, invigorating and pleasant fragrances and body sprays that help you stay cool, confident and fresh throughout the day's activities.Vini Cosmetic Ltd. is the manufacturer of Fogg products. Fogg is one of the most well known brands that offer invigorating and pleasant deodorants and body sprays that help you feel cool, confident and fresh throughout the day.
+            
+            <b> Origin<b> : Made In India
+            
+            <b>Name of Mfg / Importer / Brand:<b> VINI Cosmetics Pvt. Ltd.
+            
+            <b>Address of Mfg / Importer / Brand:<b> Janki House,2 Sunrise Park ,Opp. Himalaya Mall ,Drive In Road ,Bodakdev Ahmedabad -380054 Gujarat `,
+     
+           ProductCatagory:"Mens",         
+         },
+    
+        //  -----------------6
+
+         {
+            image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo8.jpg",
+            title:"Fogg Scent Xpressio Men Fragrance Body Spray",
+            weight:"50ML",
+            id :"BBJ003250",
+            strikeofprice:"₹539",
+            price:539,
+            discount:"12 % OFF",
+            quantity=1,
+            brand:"Fogg",
+            
+            discription:`Fogg Punch Body Spray leaves behind a sensual aroma that stimulates your senses and helps you enjoy a luxurious fragrance. This long-lasting body spray prevents body odour and uplifts your mood. Every spray adds a spark of freshness to your life.
+
+           <b> MRP : 539 <b>
+            
+            Best Before : NOV 2023
+            
+            <b>About the Brand <b>: Among the top selling deodorant brands in India, Fogg deodorants by Vini Cosmetics Private Limited, is known for it's 'No Gas, Only Perfume' long lasting, invigorating and pleasant fragrances and body sprays that help you stay cool, confident and fresh throughout the day's activities.Vini Cosmetic Ltd. is the manufacturer of Fogg products. Fogg is one of the most well known brands that offer invigorating and pleasant deodorants and body sprays that help you feel cool, confident and fresh throughout the day.
+            
+            <b> Origin<b> : Made In India
+            
+            <b>Name of Mfg / Importer / Brand:<b> VINI Cosmetics Pvt. Ltd.
+            
+            <b>Address of Mfg / Importer / Brand:<b> Janki House,2 Sunrise Park ,Opp. Himalaya Mall ,Drive In Road ,Bodakdev Ahmedabad -380054 Gujarat `,
+     
+           ProductCatagory:"Mens",         
+         },
+    
+        //  --------------7
+        {
+            image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo7.jpg",
+            title:"Fogg Dynamic Fragrance Body Spray",
+            weight:"50ML",
+            id :"BBJ003250",
+            strikeofprice:"₹421",
+            price:421,
+            discount:"12 % OFF",
+            qunty :1,
+            brand:"Fogg",
+            
+            discription:`Fogg Punch Body Spray leaves behind a sensual aroma that stimulates your senses and helps you enjoy a luxurious fragrance. This long-lasting body spray prevents body odour and uplifts your mood. Every spray adds a spark of freshness to your life.
+
+           <b> MRP : 421 <b>
+            
+            Best Before : NOV 2023
+            
+            <b>About the Brand <b>: Among the top selling deodorant brands in India, Fogg deodorants by Vini Cosmetics Private Limited, is known for it's 'No Gas, Only Perfume' long lasting, invigorating and pleasant fragrances and body sprays that help you stay cool, confident and fresh throughout the day's activities.Vini Cosmetic Ltd. is the manufacturer of Fogg products. Fogg is one of the most well known brands that offer invigorating and pleasant deodorants and body sprays that help you feel cool, confident and fresh throughout the day.
+            
+            <b> Origin<b> : Made In India
+            
+            <b>Name of Mfg / Importer / Brand:<b> VINI Cosmetics Pvt. Ltd.
+            
+            <b>Address of Mfg / Importer / Brand:<b> Janki House,2 Sunrise Park ,Opp. Himalaya Mall ,Drive In Road ,Bodakdev Ahmedabad -380054 Gujarat `,
+     
+           ProductCatagory:"Mens",         
+         },
+    
+        //  --------------8
+        {
+            image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/5/e55.jpg",
+            title:"Engage Yin Eau De Parfum For Men",
+            weight:"50ML",
+            id :"BBJ003250",
+            strikeofprice:"₹459.",
+            price:459,
+            discount:"12 % OFF",
+            quantity=1,
+            brand:"Fogg",
+            
+            discription:`Fogg Punch Body Spray leaves behind a sensual aroma that stimulates your senses and helps you enjoy a luxurious fragrance. This long-lasting body spray prevents body odour and uplifts your mood. Every spray adds a spark of freshness to your life.
+
+           <b> MRP :459 <b>
+            
+            Best Before : NOV 2023
+            
+            <b>About the Brand <b>: Among the top selling deodorant brands in India, Fogg deodorants by Vini Cosmetics Private Limited, is known for it's 'No Gas, Only Perfume' long lasting, invigorating and pleasant fragrances and body sprays that help you stay cool, confident and fresh throughout the day's activities.Vini Cosmetic Ltd. is the manufacturer of Fogg products. Fogg is one of the most well known brands that offer invigorating and pleasant deodorants and body sprays that help you feel cool, confident and fresh throughout the day.
+            
+            <b> Origin<b> : Made In India
+            
+            <b>Name of Mfg / Importer / Brand:<b> VINI Cosmetics Pvt. Ltd.
+            
+            <b>Address of Mfg / Importer / Brand:<b> Janki House,2 Sunrise Park ,Opp. Himalaya Mall ,Drive In Road ,Bodakdev Ahmedabad -380054 Gujarat `,
+     
+           ProductCatagory:"Mens",         
+         },
+    
+        //  ---------------9
+        {
+            image :"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
+            title:"Fogg Punch Fragrance Body Spray",
+            weight:"50ML",
+            id :"BBJ003250",
+            strikeofprice:"₹321",
+            price:321,
+            discount:"12 % OFF",
+            quantity=1,
+            brand:"Fogg",
+            
+            discription:`Fogg Punch Body Spray leaves behind a sensual aroma that stimulates your senses and helps you enjoy a luxurious fragrance. This long-lasting body spray prevents body odour and uplifts your mood. Every spray adds a spark of freshness to your life.
+
+           <b> MRP : 230 <b>
+            
+            Best Before : NOV 2023
+            
+            <b>About the Brand <b>: Among the top selling deodorant brands in India, Fogg deodorants by Vini Cosmetics Private Limited, is known for it's 'No Gas, Only Perfume' long lasting, invigorating and pleasant fragrances and body sprays that help you stay cool, confident and fresh throughout the day's activities.Vini Cosmetic Ltd. is the manufacturer of Fogg products. Fogg is one of the most well known brands that offer invigorating and pleasant deodorants and body sprays that help you feel cool, confident and fresh throughout the day.
+            
+            <b> Origin<b> : Made In India
+            
+            <b>Name of Mfg / Importer / Brand:<b> VINI Cosmetics Pvt. Ltd.
+            
+            <b>Address of Mfg / Importer / Brand:<b> Janki House,2 Sunrise Park ,Opp. Himalaya Mall ,Drive In Road ,Bodakdev Ahmedabad -380054 Gujarat `,
+     
+           ProductCatagory:"Mens",         
+         },
+    // ------------------8
+    {
+        image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/5/e51.jpg",
+        title:"Engage Spell Deodorant For Women",
+        weight:"50ML",
+        id :"BBJ003250",
+        strikeofprice:"₹321",
+        price:321,
+        discount:"12 % OFF",
+        quantity :1,
+        brand:"Fogg",
+        
+        discription:`Fogg Punch Body Spray leaves behind a sensual aroma that stimulates your senses and helps you enjoy a luxurious fragrance. This long-lasting body spray prevents body odour and uplifts your mood. Every spray adds a spark of freshness to your life.
+
+       <b> MRP : 321 <b>
+        
+        Best Before : NOV 2023
+        
+        <b>About the Brand <b>: Among the top selling deodorant brands in India, Fogg deodorants by Vini Cosmetics Private Limited, is known for it's 'No Gas, Only Perfume' long lasting, invigorating and pleasant fragrances and body sprays that help you stay cool, confident and fresh throughout the day's activities.Vini Cosmetic Ltd. is the manufacturer of Fogg products. Fogg is one of the most well known brands that offer invigorating and pleasant deodorants and body sprays that help you feel cool, confident and fresh throughout the day.
+        
+        <b> Origin<b> : Made In India
+        
+        <b>Name of Mfg / Importer / Brand:<b> VINI Cosmetics Pvt. Ltd.
+        
+        <b>Address of Mfg / Importer / Brand:<b> Janki House,2 Sunrise Park ,Opp. Himalaya Mall ,Drive In Road ,Bodakdev Ahmedabad -380054 Gujarat `,
+ 
+       ProductCatagory:"Women",         
+     },
+// ---------------9
+{
+    image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d36.jpg",
+    title:"Denver Esteem Hamilton Perfume",
+    weight:"50ML",
+    id :"BBJ003250",
+    strikeofprice:"₹448",
+    price:448,
+    discount:"12 % OFF",
+    quantity=1,
+    brand:"Fogg",
+    
+    discription:`Fogg Punch Body Spray leaves behind a sensual aroma that stimulates your senses and helps you enjoy a luxurious fragrance. This long-lasting body spray prevents body odour and uplifts your mood. Every spray adds a spark of freshness to your life.
+
+   <b> MRP : 448 <b>
+    
+    Best Before : NOV 2023
+    
+    <b>About the Brand <b>: Among the top selling deodorant brands in India, Fogg deodorants by Vini Cosmetics Private Limited, is known for it's 'No Gas, Only Perfume' long lasting, invigorating and pleasant fragrances and body sprays that help you stay cool, confident and fresh throughout the day's activities.Vini Cosmetic Ltd. is the manufacturer of Fogg products. Fogg is one of the most well known brands that offer invigorating and pleasant deodorants and body sprays that help you feel cool, confident and fresh throughout the day.
+    
+    <b> Origin<b> : Made In India
+    
+    <b>Name of Mfg / Importer / Brand:<b> VINI Cosmetics Pvt. Ltd.
+    
+    <b>Address of Mfg / Importer / Brand:<b> Janki House,2 Sunrise Park ,Opp. Himalaya Mall ,Drive In Road ,Bodakdev Ahmedabad -380054 Gujarat `,
+
+   ProductCatagory:"Mens",         
+ },
+// ---------------------10
+
+{
+    image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d35.jpg",
+    title:"Denver Imperial Deodorant For Men",
+    weight:"50ML",
+    id :"BBJ003250",
+    strikeofprice:"₹221",
+    price:221,
+    discount:"12 % OFF",
+    quantity=1,
+    brand:"Fogg",
+    
+    discription:`Fogg Punch Body Spray leaves behind a sensual aroma that stimulates your senses and helps you enjoy a luxurious fragrance. This long-lasting body spray prevents body odour and uplifts your mood. Every spray adds a spark of freshness to your life.
+
+   <b> MRP : 221 <b>
+    
+    Best Before : NOV 2023
+    
+    <b>About the Brand <b>: Among the top selling deodorant brands in India, Fogg deodorants by Vini Cosmetics Private Limited, is known for it's 'No Gas, Only Perfume' long lasting, invigorating and pleasant fragrances and body sprays that help you stay cool, confident and fresh throughout the day's activities.Vini Cosmetic Ltd. is the manufacturer of Fogg products. Fogg is one of the most well known brands that offer invigorating and pleasant deodorants and body sprays that help you feel cool, confident and fresh throughout the day.
+    
+    <b> Origin<b> : Made In India
+    
+    <b>Name of Mfg / Importer / Brand:<b> VINI Cosmetics Pvt. Ltd.
+    
+    <b>Address of Mfg / Importer / Brand:<b> Janki House,2 Sunrise Park ,Opp. Himalaya Mall ,Drive In Road ,Bodakdev Ahmedabad -380054 Gujarat `,
+
+   ProductCatagory:"Mens",         
+ },
+// ---------------11
+{
+    image :"https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
+    title:"Fogg Punch Fragrance Body Spray",
+    weight:"50ML",
+    id :"BBJ003250",
+    strikeofprice:"₹321",
+    price:321,
+    discount:"12 % OFF",
+    quantity=1,
+    brand:"Fogg",
+    
+    discription:`Fogg Punch Body Spray leaves behind a sensual aroma that stimulates your senses and helps you enjoy a luxurious fragrance. This long-lasting body spray prevents body odour and uplifts your mood. Every spray adds a spark of freshness to your life.
+
+   <b> MRP : 230 <b>
+    
+    Best Before : NOV 2023
+    
+    <b>About the Brand <b>: Among the top selling deodorant brands in India, Fogg deodorants by Vini Cosmetics Private Limited, is known for it's 'No Gas, Only Perfume' long lasting, invigorating and pleasant fragrances and body sprays that help you stay cool, confident and fresh throughout the day's activities.Vini Cosmetic Ltd. is the manufacturer of Fogg products. Fogg is one of the most well known brands that offer invigorating and pleasant deodorants and body sprays that help you feel cool, confident and fresh throughout the day.
+    
+    <b> Origin<b> : Made In India
+    
+    <b>Name of Mfg / Importer / Brand:<b> VINI Cosmetics Pvt. Ltd.
+    
+    <b>Address of Mfg / Importer / Brand:<b> Janki House,2 Sunrise Park ,Opp. Himalaya Mall ,Drive In Road ,Bodakdev Ahmedabad -380054 Gujarat `,
+
+   ProductCatagory:"Mens",         
+ },
+// ------------------------12
+{
+    image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d32.jpg",
+    title:"Denver Srk Emperor Deodorant Autograph",
+    weight:"50ML",
+    id :"BBJ003250",
+    strikeofprice:"₹212",
+    price:212,
+    discount:"12 % OFF",
+    quantity=1,
+    brand:"Fogg",
+    
+    discription:`Fogg Punch Body Spray leaves behind a sensual aroma that stimulates your senses and helps you enjoy a luxurious fragrance. This long-lasting body spray prevents body odour and uplifts your mood. Every spray adds a spark of freshness to your life.
+
+   <b> MRP : 212 <b>
+    
+    Best Before : NOV 2023
+    
+    <b>About the Brand <b>: Among the top selling deodorant brands in India, Fogg deodorants by Vini Cosmetics Private Limited, is known for it's 'No Gas, Only Perfume' long lasting, invigorating and pleasant fragrances and body sprays that help you stay cool, confident and fresh throughout the day's activities.Vini Cosmetic Ltd. is the manufacturer of Fogg products. Fogg is one of the most well known brands that offer invigorating and pleasant deodorants and body sprays that help you feel cool, confident and fresh throughout the day.
+    
+    <b> Origin<b> : Made In India
+    
+    <b>Name of Mfg / Importer / Brand:<b> VINI Cosmetics Pvt. Ltd.
+    
+    <b>Address of Mfg / Importer / Brand:<b> Janki House,2 Sunrise Park ,Opp. Himalaya Mall ,Drive In Road ,Bodakdev Ahmedabad -380054 Gujarat `,
+
+   ProductCatagory:"Mens",         
+ },
+
+// -------------------13
+
+{
+    image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d31.jpg",
+    title:"Denver Sporting Club Goal Perfume ",
+    weight:"60ML",
+    id :"BBJ003250",
+    strikeofprice:"₹257",
+    price:257,
+    discount:"12 % OFF",
+    quantity=1,
+    brand:"Fogg",
+    
+    discription:`Fogg Punch Body Spray leaves behind a sensual aroma that stimulates your senses and helps you enjoy a luxurious fragrance. This long-lasting body spray prevents body odour and uplifts your mood. Every spray adds a spark of freshness to your life.
+
+   <b> MRP : 257 <b>
+    
+    Best Before : NOV 2023
+    
+    <b>About the Brand <b>: Among the top selling deodorant brands in India, Fogg deodorants by Vini Cosmetics Private Limited, is known for it's 'No Gas, Only Perfume' long lasting, invigorating and pleasant fragrances and body sprays that help you stay cool, confident and fresh throughout the day's activities.Vini Cosmetic Ltd. is the manufacturer of Fogg products. Fogg is one of the most well known brands that offer invigorating and pleasant deodorants and body sprays that help you feel cool, confident and fresh throughout the day.
+    
+    <b> Origin<b> : Made In India
+    
+    <b>Name of Mfg / Importer / Brand:<b> VINI Cosmetics Pvt. Ltd.
+    
+    <b>Address of Mfg / Importer / Brand:<b> Janki House,2 Sunrise Park ,Opp. Himalaya Mall ,Drive In Road ,Bodakdev Ahmedabad -380054 Gujarat `,
+
+   ProductCatagory:"Mens",         
+ },
+// ---------------------14
+    
+
+
+ ]

@@ -1,0 +1,646 @@
+let kids =[
+    {
+       image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/1/31_7_4.jpg",
+       title:"Mamaearth Agent Apple Body Lotion For Kids With & Oat",
+       weight:"100ML",
+       id :"BBJ003250",
+       strikeofprice:"₹321",
+       price:321,
+       discount:"12 % OFF",
+       quantity:1,
+       brand:"Mamaearth",
+       
+       discription:` <b>Mamaearth Agent Apple Body Lotion<b>!  here just in time to ensure that your kiddo’s skin stays hydrated throughout the day. <b>Crafted<b> with the goodness of Apple, Oat Milk, and Shea Butter, I make sure to deeply moisturize your child’s sensitive skin without any irritation. I am extremely gentle and dermatologically tested, hence super safe for your child.
+       <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+       <b> MRP<b> : 321
+       
+       <b> Best Before<b> : JUN 2023
+       
+       <b>About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+
+      productCatagory:"kids",
+      skinType:"All skin type",
+      howToUse:`Step 1 : Pump out a generous amount in your palm.
+             Step 2 : Apply on your child’s body and massage gently.
+             Step 3 : Use it daily for best results.`,      
+    },
+    
+
+{
+    image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/0/30_6_4.jpg",
+    title: "Mamaearth Agent Apple Body Lotion For Kids With & Oat",
+     weight:"100ML",
+    id :"BBJ003250",
+    strikeofprice:"₹321",
+    price:321,
+    discount:"12 % OFF",
+    brand:"Mamaearth",
+    quantity:1,
+  
+       discription:` <b>Mamaearth Agent Apple Body Lotion<b>!  here just in time to ensure that your kiddo’s skin stays hydrated throughout the day. <b>Crafted<b> with the goodness of Apple, Oat Milk, and Shea Butter, I make sure to deeply moisturize your child’s sensitive skin without any irritation. I am extremely gentle and dermatologically tested, hence super safe for your child.
+       <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+      <b> MRP<b> : 321
+       
+      <b> Best Before<b> : JUN 2023
+       
+       <b>About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+      
+    productCatagory:"kids", 
+      skinType:"All skin type",
+      howToUse:`Step 1 : Pump out a generous amount in your palm.
+             Step 2 : Apply on your child’s body and massage gently.
+             Step 3 : Use it daily for best results.`,       
+ },
+//  --------------3
+    
+{
+    image : "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/8/28_8_4.jpg",
+    title: "Mamaearth Agent Apple Body Lotion For Kids With & Oat",
+     weight:"100ML",
+    id :"BBJ003250",
+    strikeofprice:"₹221",
+    price:221,
+    discount:"12 % OFF",
+    brand:"Mamaearth",
+    quantity:1,
+   <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+      <b> MRP<b> : 221
+       
+      <b> Best Before<b> : JUN 2023
+       
+       <b>About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+   productCatagory:"kids"         
+ },
+    //  --------------4
+
+    {
+        image : "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/5/25_13_1.jpg",
+        title: "Mamaearth Agent Apple Body Lotion For Kids With & Oat",
+       weight:"100ML",
+        id :"BBJ003250",
+        strikeofprice:"₹334",
+        price :334,
+        discount:"12 % OFF",
+        brand:"Mamaearth",
+        quantity:1,
+       
+       discription:` <b>Mamaearth Agent Apple Body Lotion<b>!  here just in time to ensure that your kiddo’s skin stays hydrated throughout the day. <b>Crafted<b> with the goodness of Apple, Oat Milk, and Shea Butter, I make sure to deeply moisturize your child’s sensitive skin without any irritation. I am extremely gentle and dermatologically tested, hence super safe for your child.
+       <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+      <b> MRP<b> : 334
+       
+      <b> Best Before<b> : JUN 2023
+       
+       <b>About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+      
+           
+       productCatagory:"kids"         
+     },
+
+
+    //  ------------------5
+    {
+        image : "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/3/23_11_3.jpg",
+        title: "Mamaearth Agent Apple Body Lotion For Kids With & Oat",
+       weight:"100ML",
+        id :"BBJ003250",
+        strikeofprice:"₹199",
+        price: 199,
+        discount:"12 % OFF",
+        brand:"Mamaearth",
+        qunty :1,
+       
+       discription:` <b>Mamaearth Agent Apple Body Lotion<b>!  here just in time to ensure that your kiddo’s skin stays hydrated throughout the day. <b>Crafted<b> with the goodness of Apple, Oat Milk, and Shea Butter, I make sure to deeply moisturize your child’s sensitive skin without any irritation. I am extremely gentle and dermatologically tested, hence super safe for your child.
+       <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+      <b> MRP<b> : 199
+       
+      <b> Best Before<b> : JUN 2023
+       
+       <b>About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+      
+       productCatagory:"kids",
+        skinType:"All skin type",
+      howToUse:`Step 1 : Pump out a generous amount in your palm.
+             Step 2 : Apply on your child’s body and massage gently.
+             Step 3 : Use it daily for best results.`,   
+     },
+
+    //  -------------------6
+    
+    {
+        image:"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va133.jpg",
+        title: "Mamaearth Milky Soft Shampoo For Kids With & Oat",
+        Weight:"100ML",
+        id : "BBJ003250",
+        strikeofprice:"311",
+        price: 311,
+        discount:"12 % OFF",
+        brand:"Mamaearth",
+        quantity:1,
+       
+       discription:` <b>Mamaearth Agent Apple Body Lotion<b>!  here just in time to ensure that your kiddo’s skin stays hydrated throughout the day. <b>Crafted<b> with the goodness of Apple, Oat Milk, and Shea Butter, I make sure to deeply moisturize your child’s sensitive skin without any irritation. I am extremely gentle and dermatologically tested, hence super safe for your child.
+       <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+      <b> MRP<b> : 311,
+       
+      <b> Best Before<b> : JUN 2023,
+       
+       <b> About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+      
+       productCatagory:"kids" 
+        skinType:"All skin type",
+      howToUse:`Step 1 : Pump out a generous amount in your palm.
+             Step 2 : Apply on your child’s body and massage gently.
+             Step 3 : Use it daily for best results.`,           
+     },
+
+    //  ---------------7
+
+    {
+        image : "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va96.jpg",
+        titile: "Mamaearth Milky softy bar  For Babies With & Oat",
+        weight:"100ML",
+        id :"BBJ003250",
+        strikeofprice:"₹121",
+        price:121,
+        discount:"12 % OFF",
+        brand:"Mamaearth",
+        quantity:1,
+       
+       discription:` <b>Mamaearth Agent Apple Body Lotion<b>!  here just in time to ensure that your kiddo’s skin stays hydrated throughout the day. <b>Crafted<b> with the goodness of Apple, Oat Milk, and Shea Butter, I make sure to deeply moisturize your child’s sensitive skin without any irritation. I am extremely gentle and dermatologically tested, hence super safe for your child.
+       <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+      <b> MRP<b> : 121
+       
+      <b> Best Before<b> : JUN 2023
+       
+       <b>About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+      
+       productCatagory:"kids" ,  
+        skinType:"All skin type",
+      howToUse:`Step 1 : Pump out a generous amount in your palm.
+             Step 2 : Apply on your child’s body and massage gently.
+             Step 3 : Use it daily for best results.`,         
+
+     },
+
+    //  ------------------------8
+
+    {
+        image : "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va94.jpg",
+        title: "Mamaearth Milky softy bar  For BabiesRash cream",
+        weight:"100ML",
+        id :"BBJ003250",
+        strikeofprice:"₹245",
+        price: 245,
+        discount:"12 % OFF",
+        brand:"Mamaearth",
+          quantity:1,
+       
+       discription:` <b>Mamaearth Agent Apple Body Lotion<b>!  here just in time to ensure that your kiddo’s skin stays hydrated throughout the day. <b>Crafted<b> with the goodness of Apple, Oat Milk, and Shea Butter, I make sure to deeply moisturize your child’s sensitive skin without any irritation. I am extremely gentle and dermatologically tested, hence super safe for your child.
+       <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+      <b> MRP<b> : 245
+       
+      <b> Best Before<b> : JUN 2023
+       
+       <b>About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+      
+       productCatagory:"kids"   
+        skinType:"All skin type",
+      howToUse:`Step 1 : Pump out a generous amount in your palm.
+             Step 2 : Apply on your child’s body and massage gently.
+             Step 3 : Use it daily for best results.`,         
+     },
+
+    //  ----------------9
+
+    {
+        image : "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be176.jpg",
+        title: "Mamaearth chicoo Natural shampooo ",
+        weight:"100ML",
+        id :"BBJ003250",
+        strikeofprice:"450",
+        price: 450,
+        discount:"12 % OFF",
+        brand:"Mamaearth",
+        quantity:1,
+       
+       discription:` <b>Mamaearth Agent Apple Body Lotion<b>!  here just in time to ensure that your kiddo’s skin stays hydrated throughout the day. <b>Crafted<b> with the goodness of Apple, Oat Milk, and Shea Butter, I make sure to deeply moisturize your child’s sensitive skin without any irritation. I am extremely gentle and dermatologically tested, hence super safe for your child.
+       <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+      <b> MRP<b> : 450
+       
+      <b> Best Before<b> : JUN 2023
+       
+       <b>About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+      
+
+       productCatagory:"kids",    
+        skinType:"All skin type",
+      howToUse:`Step 1 : Pump out a generous amount in your palm.
+             Step 2 : Apply on your child’s body and massage gently.
+             Step 3 : Use it daily for best results.`,        
+     },
+    //  ----------------10
+
+    {
+        image :"https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm248.jpg",
+        titile: "Mamaearth Perfume body mist 6 Months + - Joyful",
+        weight:"100ML",
+        id :"BBJ003250",
+        strikeofprice:"421",
+        price: 421,
+        discount:"12 % OFF",
+        brand:"Mamaearth",
+         quantity:1,
+       <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+      <b> MRP<b> : 421
+       
+      <b> Best Before<b> : JUN 2023
+       
+       <b>About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+
+        productCatagory:"kids",
+         skinType:"All skin type",
+      howToUse:`Step 1 : Pump out a generous amount in your palm.
+             Step 2 : Apply on your child’s body and massage gently.
+             Step 3 : Use it daily for best results.`,         
+     },
+ //  --------------12
+ {
+     image : "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm232.jpg",
+     titile: "Mamaearth Natural Baby Lip Balm For Babies",
+     weight:"100ML",
+     id :"BBJ003250",
+     strikeofprice:"₹99",
+     price:99,
+     discount:"12 % OFF",
+     brand:"Mamaearth",
+    quantity:1,
+    
+       discription:` <b>Mamaearth Agent Apple Body Lotion<b>!  here just in time to ensure that your kiddo’s skin stays hydrated throughout the day. <b>Crafted<b> with the goodness of Apple, Oat Milk, and Shea Butter, I make sure to deeply moisturize your child’s sensitive skin without any irritation. I am extremely gentle and dermatologically tested, hence super safe for your child.
+       <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+      <b> MRP<b> : 99
+       
+      <b> Best Before<b> : JUN 2023
+       
+       <b>About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+      
+    productCatagory:"kids" ,
+     skinType:"All skin type",
+      howToUse:`Step 1 : Pump out a generous amount in your palm.
+             Step 2 : Apply on your child’s body and massage gently.
+             Step 3 : Use it daily for best results.`,           
+  },
+ //  --------------13
+     
+ {
+     image : "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm217.jpg",
+     title: "Mamaearth Gift of Nature Kit For NewBorns And Babies",
+     weight:"100ML",
+     id :"BBJ003250",
+     strikeofprice:"₹399",
+     price: 399,
+     discount:"12 % OFF",
+     brand:"Mamaearth",
+       quantity:1,
+     
+       discription:` <b>Mamaearth Agent Apple Body Lotion<b>!  here just in time to ensure that your kiddo’s skin stays hydrated throughout the day. <b>Crafted<b> with the goodness of Apple, Oat Milk, and Shea Butter, I make sure to deeply moisturize your child’s sensitive skin without any irritation. I am extremely gentle and dermatologically tested, hence super safe for your child.
+       <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+      <b> MRP<b> : 399
+       
+      <b> Best Before<b> : JUN 2023
+       
+       <b>About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+       productCatagory:"kids",         
+  },
+     //  --------------14
+ 
+     {
+         image : "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm211.jpg",
+         titile: "Mamaearth Gift of Nature Kit For NewBorns And Babies",
+         weight:"100ML",
+         id :"BBJ003250",
+         strikeofprice:"₹299",
+         price: 299,
+         discount:"12 % OFF",
+         brand:"Mamaearth",
+           quantity:1,
+        
+       discription:` <b>Mamaearth Agent Apple Body Lotion<b>!  here just in time to ensure that your kiddo’s skin stays hydrated throughout the day. <b>Crafted<b> with the goodness of Apple, Oat Milk, and Shea Butter, I make sure to deeply moisturize your child’s sensitive skin without any irritation. I am extremely gentle and dermatologically tested, hence super safe for your child.
+       <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+      <b> MRP<b> : 299
+       
+      <b> Best Before<b> : JUN 2023
+       
+       <b>About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+      
+         
+         productCatagory:"kids",
+          skinType:"All skin type",
+          howToUse:`Step 1 : Pump out a generous amount in your palm.
+             Step 2 : Apply on your child’s body and massage gently.
+             Step 3 : Use it daily for best results.`,   
+      },
+ 
+ 
+     //  ------------------5
+     {
+         image : "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm199.jpg",
+         title: "Mamaearth Oraganic Bamboo Based Baby And Travel",
+         weight:"100ML",
+         id :"BBJ003250",
+         strikeofprice:"₹221",
+         price: 221,
+         discount:"12 % OFF",
+         brand:"Mamaearth",
+             quantity:1,
+
+       
+       discription:` <b>Mamaearth Agent Apple Body Lotion<b>!  here just in time to ensure that your kiddo’s skin stays hydrated throughout the day. <b>Crafted<b> with the goodness of Apple, Oat Milk, and Shea Butter, I make sure to deeply moisturize your child’s sensitive skin without any irritation. I am extremely gentle and dermatologically tested, hence super safe for your child.
+       <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+      <b> MRP<b> : 399
+       
+      <b> Best Before<b> : JUN 2023
+       
+       <b>About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+      
+        productCatagory:"kids", 
+        skinType:"All skin type",
+          howToUse:`Step 1 : Pump out a generous amount in your palm.
+             Step 2 : Apply on your child’s body and massage gently.
+             Step 3 : Use it daily for best results.`,           
+      },
+     //  -------------------16
+     
+     {
+         image : "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/36_3.jpg",
+         title: "Mamaearth Natural Repellent Mosquitio pathes For Babies",
+         weight:"100ML",
+         id :"BBJ003250",
+         strikeofprice:"346",
+         price:346,
+         discount:"12 % OFF",
+         brand:"Mamaearth",
+          quantity:1,
+        
+       discription:` <b>Mamaearth Agent Apple Body Lotion<b>!  here just in time to ensure that your kiddo’s skin stays hydrated throughout the day. <b>Crafted<b> with the goodness of Apple, Oat Milk, and Shea Butter, I make sure to deeply moisturize your child’s sensitive skin without any irritation. I am extremely gentle and dermatologically tested, hence super safe for your child.
+       <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+      <b> MRP<b> : 346
+       
+      <b> Best Before<b> : JUN 2023
+       
+       <b>About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+      
+        productCatagory:"kids",
+        skinType:"All skin type",
+          howToUse:`Step 1 : Pump out a generous amount in your palm.
+             Step 2 : Apply on your child’s body and massage gently.
+             Step 3 : Use it daily for best results.`,   
+      },
+ 
+     //  ---------------17
+ 
+     {
+         image : "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm166.jpg",
+         title: "Mamaearth Mineral Based Sunscreen for Babies",
+         weight:"100ML",
+         id :"BBJ003250",
+         strikeofprice:"₹200",
+         price: 200,
+         discount:"12 % OFF",
+         brand:"Mamaearth",
+           quantity:1,
+        
+       discription:` <b>Mamaearth Agent Apple Body Lotion<b>!  here just in time to ensure that your kiddo’s skin stays hydrated throughout the day. <b>Crafted<b> with the goodness of Apple, Oat Milk, and Shea Butter, I make sure to deeply moisturize your child’s sensitive skin without any irritation. I am extremely gentle and dermatologically tested, hence super safe for your child.
+       <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+      <b> MRP<b> : 200
+       
+      <b> Best Before<b> : JUN 2023
+       
+       <b>About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+      
+        productCatagory:"kids",  
+        skinType:"All skin type",
+          howToUse:`Step 1 : Pump out a generous amount in your palm.
+             Step 2 : Apply on your child’s body and massage gently.
+             Step 3 : Use it daily for best results.`,          
+      },
+ 
+     //  ------------------------18
+ 
+     {
+         image : "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/4/34_5_1.jpg",
+         title: "Mamaearth fruit punch Tooth paste for kids - pack of 2",
+         weight:"100ML",
+         id :"BBJ003250",
+         strikeofprice:"₹125",
+         price:125,
+         discount:"12 % OFF",
+         brand:"Mamaearth",
+          quantity:1,
+        
+       discription:` <b>Mamaearth Agent Apple Body Lotion<b>!  here just in time to ensure that your kiddo’s skin stays hydrated throughout the day. <b>Crafted<b> with the goodness of Apple, Oat Milk, and Shea Butter, I make sure to deeply moisturize your child’s sensitive skin without any irritation. I am extremely gentle and dermatologically tested, hence super safe for your child.
+       <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+      <b> MRP<b> : 125
+       
+      <b> Best Before<b> : JUN 2023
+       
+       <b>About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+      
+        productCatagory:"kids",
+        skinType:"All skin type",
+          howToUse:`Step 1 : Pump out a generous amount in your palm.
+             Step 2 : Apply on your child’s body and massage gently.
+             Step 3 : Use it daily for best results.`,       
+             
+      },
+ 
+     //  ----------------19
+ 
+     {
+         image : "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm161.jpg",
+         title: "Mamaearth Daily moisturizing Baby Lotion",
+         weight:"100ML",
+         id :"BBJ003250",
+         strikeofprice:"₹199",
+         price: 199,
+         discount:"12 % OFF",
+         brand:"Mamaearth",
+        quantity:1,
+        
+       discription:` <b>Mamaearth Agent Apple Body Lotion<b>!  here just in time to ensure that your kiddo’s skin stays hydrated throughout the day. <b>Crafted<b> with the goodness of Apple, Oat Milk, and Shea Butter, I make sure to deeply moisturize your child’s sensitive skin without any irritation. I am extremely gentle and dermatologically tested, hence super safe for your child.
+       <b> Ingredients<b> : <b>Apple<b>: It is high in antioxidants to protect the skin from free radicals. It improves hydration levels, giving soft and nourished skin.Oat Milk: It has anti-inflammatory properties and soothes sensitive skin. It’s also extremely gentle and helps retain moisture.Shea Butter: It is rich in Vitamin A, E, and F. It also protects the skin from free radicals, keeping the skin soft and nourishedCoconut Oil: It provides instant hydration and protects the skin. It is also soothing and helps lock in the moisture.
+       
+      <b> MRP<b> : 199
+       
+      <b> Best Before<b> : JUN 2023
+       
+       <b>About the Brand <b>: Mamaearth is Asia's first MadeSafe certified brand. The brand aspires to take care of every parent's and baby's well being from head-to-toe with safe, toxin free and international standard products. All Mamaearth products go through multiple testing processes, including clinical dermatology testing in Europe, to ensure that they are of supreme quality and suit global standards. Each product that Mamaearth brings to you is certified to be free of harmful chemicals and dermatologically tested for sensitive skin. The products are a unique combination of science as well as Ayurveda to provide solutions to the problems you face. All products from Mamaearth are made from 100% organic and natural ingredients.
+       
+       <b>Origin<b> : Made In India
+       
+       <b>Name of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd;
+       
+       <b>Address of Mfg <b>/ Importer / Brand: Honasa Consumer Pvt Ltd, LGF, Siddhartha House, Sector-44, Gurgaon-122002;
+       More Information`,
+      
+            
+        productCatagory:"kids"  ,   
+        skinType:"All skin type",
+          howToUse:`Step 1 : Pump out a generous amount in your palm.
+             Step 2 : Apply on your child’s body and massage gently.
+             Step 3 : Use it daily for best results.`,          
+      },
+     //  ----------------20
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+]

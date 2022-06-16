@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+.container{
+    width: 320px;
+    /* border: 1px solid black; */
+    padding: -10px;
+    height: auto;
+    color: gray;
+    margin: 14px;
+}
+
+nav{
+    position: absolute;
+    left: 2%;
+    /* border: 1px solid black; */
+    margin-left: 5px;
+    translate: translate(-50%,-50%);
+    width: 300px;
+    line-height: 40px;
+    padding: 2px 20px;
+    color: gray;
+    box-shadow: rgba(228, 39, 39, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset; ;
+}
+
+
+nav label {
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    display: block;
+    font-weight: 500;
+    cursor: pointer;
+    /* box-shadow: rgba(228, 39, 39, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset; ; */
+}
+
+
+.button span{
+   line-height: 35px;
+   float: right;
+   display: block;
+}
+
+ nav ul {
+    position: absolute;
+    background: #fff;
+    list-style: none;
+    top: 70px;
+    width: 300px;
+    left: 0;
+    width: 100%;
+    border-radius: 5px;
+    /* display: block; */
+    display: none;
+ }
+
+ [id^=btn]:checked+ul{
+    display: block;
+ }
+
+
+ nav .menu:before{
+    position: absolute;
+    content: '';
+    height: 20px;
+    width: 20px;
+    /* background-color: red; */
+    right: 20px;
+    top: -10px;
+    transform: rotate(45ed);
+    z-index: -1;
+ }
+
+ nav ul li {
+   line-height: 40px;
+   padding: 8px 20px;
+   cursor: pointer;
+   border-bottom: 1px solid rgba(0,0,0,0,0.2);
+ }
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    display: block;
+}
+
+nav ul li a:hover{
+    color: rgb(173, 168, 26);
+}
+
+
+nav ul li label{
+    font-size: 14px;
+}
+
+nav ul ul {
+    position: static;
+    /* position: fixed; */
+}
+
+nav ul ul li {
+    line-height: 30px;
+    padding-left: 20px;
+    border-bottom: none;
+}
+
+nav ul ul li a{
+    color: black;
+    font-size: 14px;
+}
+
+nav ul li span {
+    font-size: 14px;
+    float: right;
+    margin-top: 10px;
+    padding: 0 10px ;
+}
+
+input{
+    display: none;
+}
+
+nav li label{
+    color: black;
+}
+
+/* ----------------------------- */
+/* bottom image */
+
+.image {
+    margin-left: 16px;
+}
+
+
+
+/* ---------------------- */
+
+.big{
+   width: 98%;
+   border: 1px solid purple;
+   margin: auto;
+   display: flex;
+   gap: 40px;
+}
+
+/* --------- */
+.showdata{
+    width: 90%;
+    border: 1px solid greenyellow;
+    height: 1900px;
+    /* height: auto; */
+}

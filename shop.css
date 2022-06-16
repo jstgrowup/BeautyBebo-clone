@@ -1,0 +1,71 @@
+body{
+    width:  90%;
+    margin: auto;
+}
+
+.top{
+    margin: auto;
+    width: 95%;
+}
+
+.top > img{
+    width: 100%;
+}
+
+.offers{
+    /* width: 90%; */
+     display: grid;
+    /* border: 1px solid gray; */
+    margin: auto;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.offers > h2{
+/* border: 1px solid gray; */
+height: 40px;
+text-align: center;
+line-height: 20px;
+margin-top: 30px;
+padding: 10px;
+padding-top: 25px;
+font-size: 16px;
+width:  250px;
+margin: auto;
+box-shadow: rgba(228, 39, 39, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+cursor: pointer;
+}
+
+h2:hover{
+background-color: rgb(185, 20, 48);
+/* background-color: rgb(255, 255, 255); */
+color: #fff;
+}
+
+  #TOP{
+    color: #fff;
+    background-color: rgb(250, 99, 124);
+
+  }
+
+
+
+/* ----------------- */
+   .image{
+     width: 100%;
+     /* border: 1px solid red; */
+     display: flex;
+     margin: auto;
+   }
+   .image>div{
+    /* border: 1px solid black; */
+    width: 100%;
+    /* margin: auto; */
+    margin: 10px;
+   }
+   img{
+    width: 100%;
+    gap: 10px;
+    margin: auto;
+   }
