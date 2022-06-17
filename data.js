@@ -46,4 +46,4 @@ let data = [{
     Step 2: Wait 30 seconds for the adhesive to become sticky.
     Step 3: Adhere the strip to your lash line and gently press it in place.
     Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`}]
-   localStorage.setItem("cartData", JSON.stringify(data))
+   localStorage.setItem("irfanATC", JSON.stringify(data))

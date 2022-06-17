@@ -8,7 +8,7 @@
 #navbarS {
     height: 92px;
     width: 1423px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     margin: auto;
     display: flex;
     align-items: center;
@@ -20,11 +20,11 @@
 #logoS {
     height: 64px;
     width: 287.5px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 #searchS {
-    height: 60px;
+    height: 49px;
     width: 635px;
     border: 1px solid black;
     display: flex;
@@ -33,41 +33,51 @@
 }
 
 #AllCat {
-    height: 35px;
+    height: 45px;
     width: 220px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
+}
+#AllCat>select{
+height: 100%;
+width: 100%;
+padding: 8px;
+border: none;
 }
 
 #IP {
-    height: 31px;
+    height: 42px;
     width: 350px;
+    font-size: 18px;
+    border: none;
 }
 
+
 #sub>button {
-    height: 100%;
+    height:50px;
     border-radius: 0px 3px 3px 0px;
     width: 100%;
-
+border: 1px solid black;
     border: none;
     background-color: #dd0285;
 }
 
 #sub>button>img {
-    height: 100%;
-    width: 100%;
-
+    height: 90%;
+    width: 60%;
+    border-radius: 40px;
+    /* border: 1px solid black; */
 }
 
 #sub {
-    height: 86%;
-    width: 10%;
+    height:100%;
+    width: 11%;
     background-color: #dd0285;
     border-radius: 0px 3px 3px 0px;
 }
 
 #w {
     height: 60%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     width: 20%;
     display: flex;
     align-items: center;
@@ -107,18 +117,20 @@
 }
 
 #Acc {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 100%;
     width: 70%;
     display: flex;
     align-items: center;
 }
-
+#UserName{
+    margin-left: 5px;
+}
 #mainDIV {
     /* height should be auto */
     min-height: 900px;
     width: 93%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     margin: auto;
      position: relative;
     
@@ -129,13 +141,15 @@
 #banner {
     height: 20px;
     width: 65%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     /* margin-left: 50px; */
     display: flex;
     justify-content: space-between;
     position: static;
     top: 2px ;
     right: 2px;
+    font-weight: 700;
+    color: #666666;
 }
 
 #ite {
@@ -150,13 +164,17 @@
     display: flex;
     justify-content: space-between;
 }
-
+/* #okay{
+    border: 5px solid black;
+    
+} */
 #main {
     /* height shoukd be auto here */
     height: auto;
     width: 65%;
     /* margin-left: 50px; */
     border: 1px solid red;
+    /* border-bottom:4px solid red ; */
   
 }
 
@@ -164,15 +182,18 @@
     width: 100%;
     height: 200px;
     border: 1px solid black;
+    margin-bottom: 10px;
 
 }
 
 #all {
     height:150px;
     width: 100%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
+    border-bottom: 0.5px solid #444;
     display: flex;
     align-items: center;
+    margin-bottom: 10px;
 }
 
 
@@ -187,7 +208,7 @@
     width: 100%;
 }
 #second{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     height: 100%;
     width: 70%;
     display: flex;
@@ -200,8 +221,8 @@
 }
 #third {
     height: 30%;
-    width: 50%;
-    border: 1px solid black;
+    width: 43%;
+    /* border: 1px solid black; */
     /* margin-left: 300px; */
     display: flex;
     justify-content: space-between;
@@ -209,33 +230,42 @@
 
 #price {
     height: 100%;
-    width: 20%;
-    border: 1px solid black;
+    width: 25%;
+    /* border: 1px solid black; */
+    font-size: 16px;
+    color: black;
 }
 
 #qty {
     height: 100%;
     width: 30%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
+     margin-bottom: 30px;
 }
 
 #qty>select {
     height: 100%;
     width: 90%;
     border: none;
+    font-size: 18px;
+   
 }
 
 #tot {
     height: 100%;
-    width: 25%;
-    border: 1px solid black;
+    width: 27%;
+    /* border: 1px solid black; */
+    color: black;
+    font-size: 17px;
 }
 #btns{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 35%;
     display: flex;
     height: 36px;
     justify-content: space-between;
+    margin-bottom: 10px;
+    cursor: pointer;
 }
 #edit{
     border: 1px solid black;
@@ -244,6 +274,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
+   
+}
+#edit>p{
+     color: black;
+}
+#edit:hover{
+   background-color: #dd0285;
+   
+}
+#edit>p:hover{
+    color: white;
+     
 }
 #remove{
     border: 1px solid black;
@@ -253,11 +295,64 @@
     justify-content: center;
     align-items: center;
 }
+#remove>p{
+    color: black;
+}
+#remove:hover{
+    background-color: #dd0285;
+}
+#remove>p:hover{
+    color: white;
+
+}
+#continue{
+    height: 40px;
+    /* border: 1px solid red; */
+    width: 65%;
+    display: flex;
+    justify-content: space-between;
+
+}
+#CS{
+    height: 100%;
+    width: 25%;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #dd0285;
+    cursor: pointer;
+}
+#CS:hover{
+    background-color: #444;
+}
+#CS>p{
+color: white;
+font-weight: 600;
+}
+#US{
+    height: 100%;
+    width: 29%;
+    display: flex;
+    /* border: 1px solid black; */
+    justify-content: center;
+    align-items: center;
+    background-color: #dd0285;
+    cursor: pointer;
+}
+#US:hover{
+    background-color: #444;
+}
+#US>p{
+    color: white;
+    font-weight: 600;
+}
+
 #right{
     /* shold be auto */
     height: auto;
     width: 30%;
-    border: 2px solid red;
+    border: 1px solid #666666;
     position: absolute;
     top: 0px;
     left: 930px;
@@ -270,13 +365,13 @@
     height: 80%;
     width: 90%;
     margin: auto;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     
 }
 #lower{
     height: 90px;
     width: 100%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -286,7 +381,7 @@
 #pinki{
     height: 70%;
     width: 80%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     background-color: #dd0285;
     cursor: pointer;
     display: flex;
@@ -315,7 +410,13 @@
     background-color: #fafafa;
     padding: 10px 10px 5px;;
 }
-
+#container>p{
+    font-weight: 700;
+}
+#container>button{
+    width: 40px;
+    border: none;
+}
 .list{
     height:0px; 
     overflow: hidden;
@@ -326,20 +427,22 @@
 
 .links{
     height:300px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 .links select{
-    border: 1px solid red;
+    border: 1px solid #666666;
     width: 100%;
     height: 50px;
     margin-bottom: 20px;
+    font-size: 17px;
 
 }
 .links>input{
-    border: 1px solid red;
-    width: 100%;
+    border: 1px solid #666666;
+    width: 98%;
     height: 50px;
     margin-bottom: 20px;
+    font-size: 18px;
 }
 #subtotal{
     height: 40px;
@@ -380,7 +483,7 @@
 }
 #dis{
     height: 60px;
-    border: 1px solid black;
+    border: 1px solid #666666;
     width: 100%;
     margin-top: 30px;
     display: flex;
@@ -480,4 +583,36 @@ color: #666666;
 #LF img{
     height: 50%;
     width: 25%;
+}
+#signFoo{
+    height: 70%;
+    width:40%;
+    /* border: 1px solid white; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+}
+#signFoo>input{
+    height: 100%;
+    width: 70%;
+    border-radius: 8px 0px 0px 8px;
+    font-size: 19px;
+    border: none;
+}
+#sinpink{
+    height: 100%;
+    width: 30%;
+    /* border: 1px solid white; */
+    background-color: #dd0285;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius:0px 8px 8px 0px;
+
+}
+#sinpink>p{
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
 }
