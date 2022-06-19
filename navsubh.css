@@ -1,0 +1,123 @@
+#navbarS {
+    height: 92px;
+    width: 1423px;
+    /* border: 1px solid black; */
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+#logoS {
+    height: 64px;
+    width: 287.5px;
+    /* border: 1px solid black; */
+}
+
+#searchS {
+    height: 49px;
+    width: 635px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+
+}
+
+#AllCat {
+    height: 45px;
+    width: 220px;
+    /* border: 1px solid black; */
+}
+
+#AllCat>select {
+    height: 100%;
+    width: 100%;
+    padding: 8px;
+    border: none;
+}
+
+#IPS {
+    height: 42px;
+    width: 350px;
+    font-size: 18px;
+    border: none;
+}
+
+
+#subS>button {
+    height: 50px;
+    border-radius: 0px 3px 3px 0px;
+    width: 100%;
+    border: 1px solid black;
+    border: none;
+    background-color: #dd0285;
+}
+
+#subS>button>img {
+    height: 90%;
+    width: 60%;
+    border-radius: 40px;
+    /* border: 1px solid black; */
+}
+
+#subS {
+    height: 100%;
+    width: 11%;
+    background-color: #dd0285;
+    border-radius: 0px 3px 3px 0px;
+}
+
+#wS {
+    height: 60%;
+    /* border: 1px solid black; */
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.whistS {
+    height: 100%;
+    width: 20%;
+    border: 1px solid black;
+
+}
+
+.whistS:hover {
+    background-color: #dd0285;
+}
+
+.whistS>img {
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+}
+
+#accu {
+    height: 100%;
+    width: 25%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#accu>img {
+    height: 80%;
+    width: 80%;
+}
+
+#Acc {
+    /* border: 1px solid red; */
+    height: 100%;
+    width: 70%;
+    display: flex;
+    align-items: center;
+}
+
+#UserName {
+    margin-left: 5px;
+}

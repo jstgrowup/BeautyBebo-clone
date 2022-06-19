@@ -1,0 +1,102 @@
+#navbar {
+    background-color: #dd0285;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+}
+
+.option {
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.option>h3 {
+    font-size: 1em;
+    padding: 14px 15px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.option>h3:hover,
+#makeup {
+
+    background-color: #b7026f;
+}
+
+.column {
+
+    flex-direction: column;
+}
+
+.open-div {
+    width: 85%;
+    background-color: #ffffff;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.open-div>img {
+    max-height: 400px;
+    margin: auto 0px;
+}
+
+.open-div>div>p {
+    font-size: 14px;
+    line-height: 25px;
+    margin-top: 5px;
+}
+
+#topDiv {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #666666;
+}
+
+#topBtn {
+
+    background-color: #dd0285;
+    color: white;
+    border: none;
+    padding: 10px 25px;
+}
+
+#mainDiv {
+    /* border: 1px solid red; */
+    width: 80%;
+    margin: 25px auto;
+}
+
+#row1,
+#row2 {
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 25px 0px;
+}
+
+#row1>div,
+#row2>div {
+    
+    width: 13%;
+    padding: 15px 5px;
+    border: 1px solid #ccc;
+    font-weight: 500;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#cart-div>span{
+    color: white;
+}
