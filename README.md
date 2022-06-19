@@ -6,4 +6,3 @@ Other four :- Ashutosh
 Cart page :- Subham
 Checkout page :- sunidhi
 Product details and login signup page :- Arif
-a
